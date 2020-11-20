@@ -1,4 +1,4 @@
-package com.books.entity;
+package com.publisher.entity;
 
 public class Publisher{
 	private String title;
